@@ -9,6 +9,8 @@
       <outline type="rss" text="Google DeepMind" title="Google DeepMind" xmlUrl="https://deepmind.google/blog/rss.xml"/>
       <outline type="rss" text="One Useful Thing" title="One Useful Thing" xmlUrl="https://www.oneusefulthing.org/feed"/>
       <outline type="rss" text="Import AI" title="Import AI" xmlUrl="https://importai.substack.com/feed"/>
+      <outline type="rss" text="Simon Willison" title="Simon Willison" xmlUrl="https://simonwillison.net/atom/everything/"/>
+      <outline type="rss" text="Latent Space / AINews" title="Latent Space / AINews" xmlUrl="https://www.latent.space/feed"/>
     </outline>
     <outline text="ИИ — наука" title="ИИ — наука">
       <outline type="rss" text="arXiv cs.AI" title="arXiv cs.AI" xmlUrl="https://rss.arxiv.org/rss/cs.AI"/>
@@ -27,6 +29,7 @@
     </outline>
     <outline text="Рунет" title="Рунет">
       <outline type="rss" text="Habr — Машинное обучение" title="Habr — Машинное обучение" xmlUrl="https://habr.com/ru/rss/hubs/machine_learning/articles/?fl=ru"/>
+      <outline type="rss" text="Habr — Анализ и проектирование систем" title="Habr — Анализ и проектирование систем" xmlUrl="https://habr.com/ru/rss/hubs/analysis_design/articles/?fl=ru"/>
     </outline>
   </body>
 </opml>

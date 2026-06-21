@@ -14,6 +14,9 @@
 | arXiv — раздел cs.AI (наука) | `https://rss.arxiv.org/rss/cs.AI` |
 | One Useful Thing (Ethan Mollick) | `https://www.oneusefulthing.org/feed` |
 | Habr — хаб «Машинное обучение» | `https://habr.com/ru/rss/hubs/machine_learning/articles/?fl=ru` |
+| Habr — «Анализ и проектирование систем» | `https://habr.com/ru/rss/hubs/analysis_design/articles/?fl=ru` |
+| Simon Willison (блог) | `https://simonwillison.net/atom/everything/` |
+| Latent Space / AINews | `https://www.latent.space/feed` |
 
 ## ◻️ Стандартные (обычно стабильны)
 | Источник | Лента |
@@ -36,4 +39,4 @@
 | The Batch (DeepLearning.AI) | https://www.deeplearning.ai/the-batch/ |
 | Telegram (нет нормальных лент) | @seeallochnaya · @denissexy · @ai_newz — проверяю вручную |
 
-> Habr-хаб «Системный анализ» по стандартным адресам не открылся — уточню точный адрес отдельно; пока этот раздел закрывает [[Банк промптов]] и общий поиск по Habr.
+> Хаб Habr для аналитиков найден — «Анализ и проектирование систем» (slug `analysis_design`), лента подтверждена ✅.
