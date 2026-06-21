@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>База знаний ИИ — ленты</title>
+  </head>
+  <body>
+    <outline text="ИИ — лаборатории и практика" title="ИИ — лаборатории и практика">
+      <outline type="rss" text="OpenAI" title="OpenAI" xmlUrl="https://openai.com/news/rss.xml"/>
+      <outline type="rss" text="Google DeepMind" title="Google DeepMind" xmlUrl="https://deepmind.google/blog/rss.xml"/>
+      <outline type="rss" text="One Useful Thing" title="One Useful Thing" xmlUrl="https://www.oneusefulthing.org/feed"/>
+      <outline type="rss" text="Import AI" title="Import AI" xmlUrl="https://importai.substack.com/feed"/>
+    </outline>
+    <outline text="ИИ — наука" title="ИИ — наука">
+      <outline type="rss" text="arXiv cs.AI" title="arXiv cs.AI" xmlUrl="https://rss.arxiv.org/rss/cs.AI"/>
+      <outline type="rss" text="arXiv cs.CL" title="arXiv cs.CL" xmlUrl="https://rss.arxiv.org/rss/cs.CL"/>
+      <outline type="rss" text="arXiv cs.LG" title="arXiv cs.LG" xmlUrl="https://rss.arxiv.org/rss/cs.LG"/>
+    </outline>
+    <outline text="ИИ — новости и СМИ" title="ИИ — новости и СМИ">
+      <outline type="rss" text="TechCrunch AI" title="TechCrunch AI" xmlUrl="https://techcrunch.com/category/artificial-intelligence/feed/"/>
+      <outline type="rss" text="MIT Technology Review" title="MIT Technology Review" xmlUrl="https://www.technologyreview.com/feed/"/>
+      <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="https://feeds.arstechnica.com/arstechnica/index"/>
+      <outline type="rss" text="Hacker News" title="Hacker News" xmlUrl="https://news.ycombinator.com/rss"/>
+    </outline>
+    <outline text="ИИ — сообщества" title="ИИ — сообщества">
+      <outline type="rss" text="Reddit r/LocalLLaMA" title="Reddit r/LocalLLaMA" xmlUrl="https://www.reddit.com/r/LocalLLaMA/.rss"/>
+      <outline type="rss" text="Reddit r/artificial" title="Reddit r/artificial" xmlUrl="https://www.reddit.com/r/artificial/.rss"/>
+    </outline>
+    <outline text="Рунет" title="Рунет">
+      <outline type="rss" text="Habr — Машинное обучение" title="Habr — Машинное обучение" xmlUrl="https://habr.com/ru/rss/hubs/machine_learning/articles/?fl=ru"/>
+    </outline>
+  </body>
+</opml>
