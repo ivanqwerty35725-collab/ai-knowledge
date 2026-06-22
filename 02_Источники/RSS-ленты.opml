@@ -31,5 +31,13 @@
       <outline type="rss" text="Habr — Машинное обучение" title="Habr — Машинное обучение" xmlUrl="https://habr.com/ru/rss/hubs/machine_learning/articles/?fl=ru"/>
       <outline type="rss" text="Habr — Анализ и проектирование систем" title="Habr — Анализ и проектирование систем" xmlUrl="https://habr.com/ru/rss/hubs/analysis_design/articles/?fl=ru"/>
     </outline>
+    <outline text="Аналитика и отрасли" title="Аналитика и отрасли">
+      <outline type="rss" text="Interconnects" title="Interconnects" xmlUrl="https://www.interconnects.ai/feed"/>
+      <outline type="rss" text="Ground Truths (мед-ИИ)" title="Ground Truths (мед-ИИ)" xmlUrl="https://erictopol.substack.com/feed"/>
+      <outline type="rss" text="Recode China AI" title="Recode China AI" xmlUrl="https://recodechinaai.substack.com/feed"/>
+      <outline type="rss" text="SemiAnalysis" title="SemiAnalysis" xmlUrl="https://www.semianalysis.com/feed"/>
+      <outline type="rss" text="Transformer News" title="Transformer News" xmlUrl="https://www.transformernews.ai/feed"/>
+      <outline type="rss" text="Don't Worry About the Vase" title="Don't Worry About the Vase" xmlUrl="https://thezvi.substack.com/feed"/>
+    </outline>
   </body>
 </opml>

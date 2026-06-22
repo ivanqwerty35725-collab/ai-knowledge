@@ -30,6 +30,12 @@
 | Import AI (Jack Clark) | `https://importai.substack.com/feed` |
 | MIT Technology Review | `https://www.technologyreview.com/feed/` |
 | Ars Technica | `https://feeds.arstechnica.com/arstechnica/index` |
+| Interconnects (N. Lambert) | `https://www.interconnects.ai/feed` |
+| Ground Truths (мед-ИИ) | `https://erictopol.substack.com/feed` |
+| Recode China AI | `https://recodechinaai.substack.com/feed` |
+| SemiAnalysis | `https://www.semianalysis.com/feed` |
+| Transformer News (политика) | `https://www.transformernews.ai/feed` |
+| Don't Worry About the Vase (Zvi) | `https://thezvi.substack.com/feed` |
 
 ## 📄 Без ленты — читаем со страницы / поиском
 | Источник | Где |
