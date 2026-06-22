@@ -43,6 +43,6 @@
 | Anthropic (новости) | https://www.anthropic.com/news |
 | Hugging Face — Daily Papers | https://huggingface.co/papers |
 | The Batch (DeepLearning.AI) | https://www.deeplearning.ai/the-batch/ |
-| Telegram (через t.me/s/) | Бот читает публичные каналы: @seeallochnaya, @denissexy, @ai_newz, @data_secrets, @gonzo_ML, @ai_machinelearning_big_data, @cgevent, @llm_under_hood |
+| Telegram (через t.me/s/) | Бот читает публичные каналы: @seeallochnaya, @denissexy, @ai_newz, @data_secrets, @gonzo_ML, @ai_machinelearning_big_data, @cgevent, @llm_under_hood, @addmeto, @abstractDL, @rybolos_channel, @boris_again, @evilfreelancer, @sys_sa, @sa_chulan |
 
 > Хаб Habr для аналитиков найден — «Анализ и проектирование систем» (slug `analysis_design`), лента подтверждена ✅.
